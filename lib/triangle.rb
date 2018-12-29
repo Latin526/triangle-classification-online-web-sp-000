@@ -24,5 +24,6 @@ class Triangle
     if valid?
       if @triangle_sides.uniq.length == 1 
         return :equilateral
-      elseif @triangle_sides.uniq.length == side_2 return :isosc
+      elseif @triangle_sides.uniq.length == side_2
+        return :isosceles
 end
