@@ -27,5 +27,6 @@ class Triangle
       elseif @triangle_sides.uniq.length == side_2
         return :isosceles
       else 
-        return :
+        return :scalene 
+        
 end
