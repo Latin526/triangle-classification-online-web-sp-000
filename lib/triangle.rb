@@ -22,5 +22,5 @@ class Triangle
   
   def kind 
     if valid?
-      if @tr
+      if @triangle_sides
 end
