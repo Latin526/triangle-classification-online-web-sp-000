@@ -34,4 +34,5 @@ class Triangle
       raise TriangleError
     end
   end
+  class 
 end
