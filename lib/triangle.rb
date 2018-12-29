@@ -1,4 +1,4 @@
-rquire 
+rquire 'pry'
 
 class Triangle
   # write code here
