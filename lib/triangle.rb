@@ -10,5 +10,5 @@ class Triangle
   
   def valid?
     sum_one_two = @triangle_sides[0] + @triangle_sides[1]
-    
+    sum_one_three = @triangle_sides[0] + @triangle_sides[]
 end
