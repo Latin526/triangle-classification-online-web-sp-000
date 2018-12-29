@@ -24,5 +24,5 @@ class Triangle
     if valid?
       if @triangle_sides.uniq.length == 1 
         return :equilateral
-      elseif 
+      elseif @triangle_sides.uniq.
 end
