@@ -20,5 +20,6 @@ class Triangle
     end
   end
   
-  def kind
+  def kind 
+    
 end
