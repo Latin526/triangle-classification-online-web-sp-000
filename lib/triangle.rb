@@ -9,5 +9,5 @@ class Triangle
   end
   
   def valid?
-    
+    sum_one
 end
