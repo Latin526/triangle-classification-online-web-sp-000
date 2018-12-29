@@ -22,4 +22,5 @@ class Triangle
   
   def kind 
     if valid?
+      if 
 end
