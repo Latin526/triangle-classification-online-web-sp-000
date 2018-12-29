@@ -31,5 +31,6 @@ class Triangle
       end 
       
     else
-      raise Triangle
+      raise TriangleError
+      
 end
