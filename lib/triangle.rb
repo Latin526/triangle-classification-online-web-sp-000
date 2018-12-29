@@ -20,5 +20,5 @@ class Triangle
     end
   end
   
-  def 
+  def kind
 end
