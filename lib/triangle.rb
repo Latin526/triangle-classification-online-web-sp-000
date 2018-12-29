@@ -31,5 +31,5 @@ class Triangle
       end 
       
     else
-      raise
+      raise Trianglr
 end
